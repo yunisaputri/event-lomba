@@ -1,0 +1,1 @@
+console.log("Script eksternal terpusat berhasil dipanggil");
